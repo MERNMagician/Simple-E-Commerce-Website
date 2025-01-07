@@ -41,7 +41,7 @@ main {
   align-items: flex-start;
   gap: 1rem;
   padding: 2rem;
-  background: url(assets/background.jpg);
+  background: url(../images/background/background.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   height: 31.25rem;
