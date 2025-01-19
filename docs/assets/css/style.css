@@ -125,6 +125,9 @@ main {
   font-size: 13px;
   cursor: pointer;
 }
+.prod-border button:hover {
+  background-color: black;
+}
 .dots {
   display: flex;
   gap: 10px;
@@ -277,7 +280,7 @@ main {
 .Copyright {
   padding: 1rem;
   text-align: center;
-  font-family: Poppins;
+  font-family: Fira Code;
   color: white;
   background-color: #232c33;
   border-top: 1px solid white;
