@@ -234,6 +234,7 @@ main {
 .news-date h3 {
   color: black;
 }
+
 .news-date a {
   text-decoration: none;
   color: #a40e4c;
@@ -276,14 +277,6 @@ main {
   flex-direction: column;
   gap: 25px;
   font-size: 1rem;
-}
-.Copyright {
-  padding: 1rem;
-  text-align: center;
-  font-family: Fira Code;
-  color: white;
-  background-color: #232c33;
-  border-top: 1px solid white;
 }
 .credit-icons {
   display: flex;
